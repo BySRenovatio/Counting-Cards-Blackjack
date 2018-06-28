@@ -1,0 +1,10 @@
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\bin\Debug\WinnerWinnerChickenDinner.exe.config
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\bin\Debug\WinnerWinnerChickenDinner.exe
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\bin\Debug\WinnerWinnerChickenDinner.pdb
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.MainForm.resources
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.Properties.Resources.resources
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.csproj.GenerateResource.cache
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.csproj.CoreCompileInputs.cache
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.exe
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.pdb
+C:\Users\Sorin\Desktop\WinnerWinnerChickenDinner\WinnerWinnerChickenDinner\obj\Debug\WinnerWinnerChickenDinner.csprojAssemblyReference.cache
